@@ -6,7 +6,7 @@ Within-dataset reliability and cross-chemistry transferability of multi-horizon 
 
 This project extends the multi-horizon hazard classification framework from Shikdar and Laaksonen [1] — originally demonstrated on NASA 18650 cells with a single model (HGB) — to three model classes (XGBoost, LightGBM, Random Forest) across two LCO datasets (NASA, CALCE) with cross-chemistry transfer analysis to LFP (Oxford).
 
-### Key Findings
+## Key Findings
 
 | Finding | Result |
 |---------|--------|
